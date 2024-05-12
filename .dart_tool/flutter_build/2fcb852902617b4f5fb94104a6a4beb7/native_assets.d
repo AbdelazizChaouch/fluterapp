@@ -1,0 +1,1 @@
+ D:\\MediceApp\\myapp\\myapp\\.dart_tool\\flutter_build\\2fcb852902617b4f5fb94104a6a4beb7\\native_assets.yaml: 
