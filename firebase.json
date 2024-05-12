@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"myapp-medice","appId":"1:502054726447:android:5ffcaf0d29ee5a4da08fda","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"myapp-medice","configurations":{"android":"1:502054726447:android:5ffcaf0d29ee5a4da08fda","ios":"1:502054726447:ios:d980abc10a28decfa08fda"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502054726447",
+    "project_id": "myapp-medice",
+    "storage_bucket": "myapp-medice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502054726447:android:5ffcaf0d29ee5a4da08fda",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATBEaGvy2oCzKtZ5sYpR1QBIMk9DwVcf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
